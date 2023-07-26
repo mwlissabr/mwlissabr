@@ -3,6 +3,10 @@
 - 🔭 Hoje trabalho com suporte de sistema.
 - 🌱 Estou aprendendo Python.
 
+##
+
+Todos os meus repositórios são abertos, para mostrar o meu progresso durante a jornada na programação. Seja bem vindo(a)! 
+
 <div>
   <a href="https://github-readme-status.vercel.app/api/pin/?username=mwlissabr&token=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">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=mwlissabr&theme=dracula"/>
