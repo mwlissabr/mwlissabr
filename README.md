@@ -4,8 +4,8 @@
 - 🌱 Estou aprendendo Python.
 
 ##
-
-Todos os meus repositórios são abertos, para mostrar o meu progresso durante a jornada na programação. Seja bem vindo(a)! 
+#### Todos os meus repositórios são abertos, para mostrar o meu progresso durante a jornada na programação. Seja bem vindo(a)! 
+##
 
 <div>
   <a href="https://github-readme-status.vercel.app/api/pin/?username=mwlissabr&token=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">
