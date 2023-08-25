@@ -1,7 +1,7 @@
 ### Oii! Eu sou a Melissa. 
 
 - 🔭 Hoje trabalho com suporte de sistema.
-- 🌱 Estou aprendendo Python.
+- 🌱 Estou aprendendo Python e Java.
 
 ##
 #### Todos os meus repositórios são abertos, para mostrar o meu progresso durante a jornada na programação. Seja bem vindo(a)! 
