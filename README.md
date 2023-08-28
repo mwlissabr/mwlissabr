@@ -4,7 +4,7 @@
 - 🌱 Estou aprendendo Python e Java.
 
 ##
-#### Todos os meus repositórios são abertos, para mostrar o meu progresso durante a jornada na programação. Seja bem vindo(a)! 
+### Seja bem vindo(a)! 
 ##
 
 <div>
