@@ -1,7 +1,7 @@
 ### Oii! Eu sou a Melissa. 
 
-- 🔭 Hoje trabalho com suporte de sistema.
-- 🌱 Estou aprendendo Python e Java.
+- 🔭 Hoje faço estágio na área de desenvolvimento Java.
+- 🌱 Estou aprendendo Python.
 
 ##
 ### Seja bem vindo(a)! 
