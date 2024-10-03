@@ -1,7 +1,6 @@
 ### Oii! Eu sou a Melissa. 
 
-- 🔭 Atualmente estou estagiando na área de Desenvolvimento Web, utilizando Angular, NodeJS e Typescript.
-- 🌱 Estou estudando Python.
+- 🔭 Atualmente estou estagiando na área de Desenvolvimento Web e Gerenciamento de Sistema.
 
 ##
 ### Seja bem vindo(a)! 
