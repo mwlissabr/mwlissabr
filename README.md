@@ -1,6 +1,6 @@
 ### Oii! Eu sou a Melissa. 
 
-- 🔭 Atualmente estou estagiando na área de Desenvolvimento Web e Gerenciamento de Sistema.
+- 🔭 Atualmente estou estagiando na área de Desenvolvimento Full Stack.
 
 ##
 ### Seja bem vindo(a)! 
